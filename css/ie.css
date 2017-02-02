@@ -1,0 +1,7 @@
+body {
+	background: #e7e8ea url(../img/bg-body-ie.png) repeat-x;
+}
+.gallery .wrap ul.list li div.gallery-left a.read-more{
+	background: url(../img/a-bg-ie.png) repeat-x;
+}
+
